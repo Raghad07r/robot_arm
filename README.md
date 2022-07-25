@@ -18,6 +18,7 @@ $ sudo apt-get install ros-melodic-gazebo-ros-control joint-state-publisher
 $ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
 ```
 <img width="960" alt="2022-07-22 (8)" src="https://user-images.githubusercontent.com/107891623/180715127-00ebdd50-33b6-49ea-b4cf-9a855e015734.png">
+<img width="960" alt="2022-07-22 (9)" src="https://user-images.githubusercontent.com/107891623/180717334-16543a80-9313-4149-9eca-f19fd9c14383.png">
 
 Configuring Arduino with ROS
 
